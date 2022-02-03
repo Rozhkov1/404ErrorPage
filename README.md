@@ -1,0 +1,1 @@
+#Simple error page using HTML&CSS
